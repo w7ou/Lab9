@@ -1,0 +1,10 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+                   0Data=0000000000000000,output=x
+                  35Data=0000000000000000,output=0
+                  50Data=0000000000110111,output=0
+                  75Data=0000000000110111,output=1
+                 150Data=0000000000101101,output=1
+                 155Data=0000000000101101,output=0
+                 250Data=0000000000111111,output=0
+$finish called at time : 350 ns : File "C:/Users/COSH/Desktop/project/Lab9/Lab9/Lab9.srcs/sim_1/new/Lab9_tb.v" Line 14

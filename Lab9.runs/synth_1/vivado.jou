@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Jan  7 18:43:10 2024
+# Process ID: 18268
+# Current directory: C:/Users/COSH/Desktop/project/Lab9/Lab9/Lab9.runs/synth_1
+# Command line: vivado.exe -log Lab_9.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Lab_9.tcl
+# Log file: C:/Users/COSH/Desktop/project/Lab9/Lab9/Lab9.runs/synth_1/Lab_9.vds
+# Journal file: C:/Users/COSH/Desktop/project/Lab9/Lab9/Lab9.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Lab_9.tcl -notrace
